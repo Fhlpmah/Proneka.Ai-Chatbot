@@ -1,0 +1,8 @@
+[
+    { "label" : "Test" , "wordname" : "test" },
+    { "label" : "Test DB" , "wordname" : "test-db" },
+    { "label" : "Publish" , "wordname" : "publish" },
+    { "label" : "Update Log" , "wordname" : "update-log" }
+]
+
+
